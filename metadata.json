@@ -1,0 +1,6 @@
+{
+  "name": "IPTV India Player",
+  "description": "A high-fidelity Indian OTT-style IPTV browser, stream player (featuring hls.js streaming), local caching, and a dedicated Kotlin + Jetpack Compose source code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
